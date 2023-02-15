@@ -115,7 +115,7 @@ modify the code so it returns following information:
 You can review the (Greek) eclass slides and the very useful MDN Web Docs.
 ###Excercise 1-2:
 
-In http://ds.upatras.gr/ there is a (Greek) web form which given the Surname, E-mail or Phone of a UPatras employee, returns a page with contact information. Note that the form sends the request with the HTTP POST method.
+In https://ds.upatras.gr/ there is a (Greek) web form which given the Surname, E-mail or Phone of a UPatras employee, returns a page with contact information. Note that the form sends the request with the HTTP POST method.
 
 In a file with name lab1-2.py write code which:
 
