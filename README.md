@@ -68,7 +68,7 @@ H σελίδα https://ds.upatras.gr/ περιέχει μια φόρμα που 
 Συστήνεται να μην ξεκινήσετε από το stackoverflow, αλλά να από την τεκμηρίωση και το API της requests και την αντίστοιχη τεκμηρίωση για το HTTP που υπάρχει στο MDN.
 
 
-##English
+## English
 
 A number of Python libraries allow us to handle HTTP requests. We will use today the requests Python library. Basic knowledge of regular expressions with the re library will be very useful (see the Regular Expression HOWTO).
 
