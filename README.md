@@ -100,7 +100,7 @@ with requests.get(url) as response:  # το αντικείμενο response
 
 
 In order to view the HTTP response headers, we can look in the headers dict of the response object.
-###Excercise 1-1:
+### Excercise 1-1:
 
 In a file with name lab1-1.py write python code using the requests library that:
 
@@ -113,7 +113,7 @@ modify the code so it returns following information:
     </ol>
 
 You can review the (Greek) eclass slides and the very useful MDN Web Docs.
-###Excercise 1-2:
+### Excercise 1-2:
 
 In https://ds.upatras.gr/ there is a (Greek) web form which given the Surname, E-mail or Phone of a UPatras employee, returns a page with contact information. Note that the form sends the request with the HTTP POST method.
 
