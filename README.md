@@ -51,4 +51,4 @@ with requests.get(url) as response:  # το αντικείμενο response
     - Αν η σελίδα χρησιμοποιεί cookies, και αν ναι
     - Το όνομα κάθε cookie και για πόσο διάστημα θα είναι έγκυρο.
 
-Για να δείτε ποιες είναι οι κεφαλίδες που δίνουν τις πληροφορίες που σας χρειάζονται, ανατρέξτε στις διαφάνειες της [διάλεξης στο eclass](https://eclass.upatras.gr/modules/units/?course=EE767&id=3262) ή στην τεκμηρίωση στο [MDN Web Docs](https://developer.mozilla.org/en-US/).
+Για να δείτε ποιες είναι οι κεφαλίδες που δίνουν τις πληροφορίες που σας χρειάζονται στην τεκμηρίωση στο [MDN Web Docs](https://developer.mozilla.org/en-US/).
